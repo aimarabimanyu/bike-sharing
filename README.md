@@ -12,7 +12,10 @@ pip install -r requirements.txt
 
 ## Run steamlit app
 ```
-cd dashboard
 streamlit run dashboard.py
 ```
 
+## Run steamlit app via browser
+```
+https://bike-sharing-tjqvcvxunjhfvh2opnvdel.streamlit.app/
+```
